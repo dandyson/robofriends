@@ -1,0 +1,19 @@
+img {
+  height: 140px;
+  padding: 20px;
+}
+
+#robotDiv {
+  width: 268px;
+  border-radius: 50px;
+}
+
+h2 {
+  font-family: "Orbitron", sans-serif;
+  font-size: 1em;
+}
+
+h2,
+p {
+  color: #efefef;
+}
