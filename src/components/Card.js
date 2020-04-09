@@ -1,6 +1,5 @@
-import React, { Component } from "react";
+import React from "react";
 import "./Card.css";
-import { Button, Modal } from "react-bootstrap";
 
 const Card = ({ name, email, id }) => {
   return (
